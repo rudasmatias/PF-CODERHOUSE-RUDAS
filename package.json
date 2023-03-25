@@ -1,0 +1,19 @@
+{
+  "name": "pf-coderhouse-rudas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudasmatias/PF-CODERHOUSE-RUDAS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudasmatias/PF-CODERHOUSE-RUDAS/issues"
+  },
+  "homepage": "https://github.com/rudasmatias/PF-CODERHOUSE-RUDAS#readme"
+}
